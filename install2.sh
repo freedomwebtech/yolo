@@ -4,3 +4,4 @@ pip3 install tensorflow
 pip3 install cvlib
 pip3 install keras==2.6.0
 apt-get install libatlas-base-dev -y
+wget https://pjreddie.com/media/files/yolov3.weights
